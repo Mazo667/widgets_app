@@ -40,10 +40,10 @@ final appMenuItems = <MenuItem>[
       link: '/app_tutorial',
       icon: Icons.add_chart),
   MenuItem(
-      title: 'Infinite Scroll',
-      subtitle: 'Un scroll infinito',
+      title: 'Infinite Scroll & Pull',
+      subtitle: 'Listas infinitas y pull to refresh',
       link: '/infinite_scroll',
-      icon: Icons.arrow_circle_down_outlined),
+      icon: Icons.list_alt_outlined),
   MenuItem(
       title: 'SnackBar y Dialogos',
       subtitle: 'Snack Bar y dialogos simples',
