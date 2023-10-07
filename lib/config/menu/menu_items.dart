@@ -54,4 +54,14 @@ final appMenuItems = <MenuItem>[
       subtitle: 'UI controles',
       link: '/ui_controls',
       icon: Icons.keyboard_option_key),
+  MenuItem(
+      title: 'Counter RiverPod',
+      subtitle: 'Un contador de RiverPod',
+      link: '/counter',
+      icon: Icons.plus_one),
+  MenuItem(
+      title: 'Theme Changer',
+      subtitle: 'Cambiar el modo oscuro a claro o viceversa ',
+      link: '/theme_changer',
+      icon: Icons.dark_mode_rounded),
 ];
